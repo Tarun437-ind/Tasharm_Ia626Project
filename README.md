@@ -233,6 +233,9 @@ By using all the 2.43M we see how the value is spreaded amoung 4 different types
 
 ![BI8](https://user-images.githubusercontent.com/93997961/207182432-6a448118-f3b3-4590-a231-7c06146496b0.png)
 
+# Conclusion
+After doing data analysis by using Power BI we can see that there is a difference between Farmland_class and unit_Acres among counties when we are counting the values for farmland_class of particular county ESSEX has the highest value and St.Lawerence has second but when we are counting the unit_Acres St.lawerence has the highest acres covered with category same goes for Broome and schenactady for the least value between Farmland_class and unit_Acres.
+
 
 
 
